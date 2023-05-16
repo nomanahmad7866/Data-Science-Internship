@@ -1,0 +1,1 @@
+"# PCA-Implementation-Without-Using-Libraries"  It is one of implementation task during my Internship Period at JMM. Here I implemented  Principle Component Analysis Algorithm without using Python Libraries to strong my programming skills. I also calculated all steps on excel file. Hope it will help you to understand PCA from scratch
